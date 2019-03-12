@@ -1,0 +1,153 @@
+
+
+.white-text{
+    color: black!important;
+}
+.carousel{
+    height: 500px!important;
+}
+.carousel-item{
+    width: 400px!important;
+    height: 300px!important;
+}
+.furtherCenter{
+    height: 100vh;
+    background-repeat:no-repeat;
+    background-size: 100%;
+
+background-image: url("../images/main-pic.jpeg") ;
+
+}
+.title{
+    margin-top: 10%;
+    color: white;
+}
+.subTitle{
+    color: white;
+    font-size: 27px;
+
+}
+#country_name{
+    color: white;
+
+}
+ #incorrect-storeTwo{
+    background: #f9c0ca;
+    border-radius: 15px;
+    padding: 10px;
+    font-weight: 200;
+    text-align: center;
+}
+/* label focus color */
+.codeLabel:focus + label {
+    color: white!important;
+}
+/* label underline focus color */
+.codeLabel:focus {
+    border-bottom: 1px solid white!important;
+    box-shadow: 0 1px 0 0 white!important;
+}
+.codeLabel label {
+    color: white!important;
+}
+/* valid color */
+.codeLabel input[type=text].valid {
+    border-bottom: 1px solid white!important;
+    box-shadow: 0 1px 0 0 white!important;
+}
+/* icon prefix focus color */
+.codeLabel .prefix.active {
+    color: white!important;
+}
+.codeLabel{
+    color: white!important;
+
+}
+#countryList{
+
+
+}
+.modal{
+    box-shadow: 0px 2px 45px 5px rgb(0,0,0,0.35)!important;
+    border-radius: 9px;
+    border: 6px solid lightblue!important;
+
+}
+
+.ingredient{
+    color: black;
+}
+
+.listingRecipes:hover, .ingrediantSelect:hover{
+    background-color: darkgray;
+}
+.dropdown-menu{
+    background-color: white;
+    opacity: 0.9;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #FBF9F6;
+}
+nav{
+    background-color: #55a44e!important;
+}
+.character-counter{
+    display: none!important;
+}
+
+.row .col.l9 {
+    width: 100%!important;
+}
+
+footer{
+    background-color: #55a44e!important;
+}
+
+#white-icon{
+    color:white;
+
+}
+.modal{
+    max-height: 85%!important;
+}
+#nutritional{
+    height: 340px!important;
+}
+.titleDark{
+    color: black;
+}
+.ingrediantSelect{
+    cursor: pointer;
+}
+#month, .whiteback {
+    opacity: 0.8;
+    color: black;
+    width: 100%;
+    background: white;
+}
+
+/** on the admin panel the scrolling talbe */
+#scrolltable { margin-top: 20px; height: 400px; overflow: auto; }
+#scrolltable table { border-collapse: collapse; }
+#scrolltable tr:nth-child(even) { background: #EEE; }
+#scrolltable th div { position: absolute; margin-top: -20px; }
+
+
+#fourWeeks{
+    margin-top: 10px;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {   #logo {
+    width: 120px;
+}}
+#this-weeks-code{
+    color:white;
+}
+
+
+/**
+tiles for bottom
+ */
